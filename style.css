@@ -1,5 +1,6 @@
 h1{
     text-align: center;
+    color: whitesmoke;
 }
 img{
     margin-left: auto;
@@ -9,15 +10,20 @@ img{
 }
 p{
     text-align: center;
+    font-size: large;
+    font-family: fantasy;
+    font-weight: 100;
+    color: white;
 }
 /* table{ */
     /* text-align: center; */
     /* text-decoration-color: aqua; */
 /* } */
-tr:hover {background-color: aqua;}
+tr:hover {background-color:darkcyan;}
 th, td {
     padding: 15px;
     text-align: left;
+    /* background-image: url("IMG_0408.JPG"); */
   }
 
   /* .stuff{ */
@@ -29,10 +35,10 @@ th, td {
   /* } */
 
   body {
-    background-image: url("planes.jpeg");
-    background-repeat: no-repeat;
-    background-position: right top;
-    background-attachment: scroll;
-    background-blend-mode: lighten;
-    background-repeat: repeat-y;
+    background-image: url("photo.jpeg");
+    /* background-repeat: no-repeat; */
+    /* background-position: right top; */
+    /* background-attachment: scroll; */
+    /* background-blend-mode: lighten; */
+    /* background-repeat: repeat-y; */
   }
