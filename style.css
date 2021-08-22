@@ -5,7 +5,34 @@ img{
     margin-left: auto;
     margin-right: auto;
     display: block;
+    background-attachment: fixed;
 }
 p{
     text-align: center;
 }
+/* table{ */
+    /* text-align: center; */
+    /* text-decoration-color: aqua; */
+/* } */
+tr:hover {background-color: aqua;}
+th, td {
+    padding: 15px;
+    text-align: left;
+  }
+
+  /* .stuff{ */
+    /* position: -webkit-sticky; Safari */
+    /* position: sticky; */
+    /* top: 0; */
+    /* background-color: green; */
+    /* border: 2px solid #4CAF50; */
+  /* } */
+
+  body {
+    background-image: url("planes.jpeg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: scroll;
+    background-blend-mode: lighten;
+    background-repeat: repeat-y;
+  }
