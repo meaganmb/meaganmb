@@ -38,6 +38,8 @@ th, td {
   }
 
   /* .stuff{ */
+
+    /* :hover {background-color:darkcyan;} */
     /* position: -webkit-sticky; Safari */
     /* position: sticky; */
     /* top: 0; */
