@@ -1,4 +1,9 @@
-### Hi there 👋
+### Welcome 👋
+
+Here's my repo on a personal website design I'm working on. I've done a few things using basic HTML and CSS but hopefully soon I can incorporate JavaScript to improve the animation of the website.
+
+## Observation
+Currently very pixelated, I've done a few minor adjustments but nothing very presentatble.
 
 <!--
 **meaganmb/meaganmb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
