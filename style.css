@@ -2,6 +2,17 @@ h1{
     text-align: center;
     color: whitesmoke;
 }
+h2{
+    color: white;
+    font-family: fantasy;
+}
+h3{
+    color: white;
+    font-family: fantasy;
+}
+li{
+    color: rgb(76, 184, 235);
+}
 img{
     margin-left: auto;
     margin-right: auto;
@@ -41,4 +52,8 @@ th, td {
     /* background-attachment: scroll; */
     /* background-blend-mode: lighten; */
     /* background-repeat: repeat-y; */
+  }
+  #mainhead{
+    font-family: fantasy;
+    color: white;
   }
