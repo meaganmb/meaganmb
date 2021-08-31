@@ -59,3 +59,7 @@ th, td {
     font-family: fantasy;
     color: white;
   }
+
+  li a {
+    text-decoration: none;
+  }
